@@ -1,0 +1,8 @@
+.footer-bar {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	background-color: white;
+	padding-bottom: 130px;
+	box-sizing: border-box;
+}

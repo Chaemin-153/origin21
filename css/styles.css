@@ -1,0 +1,13 @@
+@import "reset.css";
+
+/* Components */
+@import "components/status-bar.css";
+@import "components/side-bar.css";
+@import "components/footer-bar.css";
+
+/* Screens */
+@import "screens/main-screen.css";
+
+body {
+	height: 1000vh;
+}
